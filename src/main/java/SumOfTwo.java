@@ -36,14 +36,13 @@ public class SumOfTwo {
                 }
             }
             return result;
-
         }
         return new int[][]{};
     }
-
-    public static void main(String[] args) {
-        int[] array = {4, 3, 7, 12, 5, 2, 9, 4, 12};
-        int n = 12;
-        System.out.println(Arrays.toString(sumOfTwoAlgorithm(array, n)));
-    }
 }
+//    public static void main(String[] args) {
+//        int[] array = {4, 3, 7, 12, 5, 2, 9, 4, 12};
+//        int n = 12;
+//        System.out.println(Arrays.toString(sumOfTwoAlgorithm(array, n)));
+//    }
+//}
